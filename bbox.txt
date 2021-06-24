@@ -1,0 +1,14 @@
+Bounding box coordinates to extract Neuchatel INTERLIS data.
+
+WEST
+2523150.000
+
+NORTH
+1224386.000
+
+EAST
+2573697.000
+
+SOUTH
+1188556.000
+
